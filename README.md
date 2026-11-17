@@ -4,13 +4,13 @@ This is my personal resume website, made for my Web Development module project. 
 
 ## Live Website
 
-https://yourusername.github.io/your-repo-name
+file:///C:/Users/HP/Downloads/index3.html#about
 
 ## What's Inside
 
 - `index.html` - the content of the website (about, education, skills, contact)
 - `style.css` - the design of the website (colors, fonts, layout)
-- `profile.jpg` - my photo
+- `profile.jpeg` - my photo
 
 ## What I Used
 
@@ -32,4 +32,4 @@ I learned how to use fonts, colors and selectors to style a page, and how to hos
 
 ## Author
 
-Your Name
+Shreyasi Nagare
